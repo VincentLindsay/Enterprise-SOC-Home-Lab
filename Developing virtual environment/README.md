@@ -4,7 +4,7 @@ This section will entail the setup of a virtual network, as well as the respecti
 # Table of Contents
 - [Creating the VNet]
 - [Booting up Windows Machines]
-- [Booting up Ubuntu Machines (SIEM, SOC Workstation, & Zeek Sensor)]
+- [Booting up Ubuntu Machines (SIEM, & SOC Workstation]
 
 
 # Creating the VNET
@@ -29,10 +29,10 @@ This section will entail the setup of a virtual network, as well as the respecti
 
 * *** add something to show installation of workstation ****
 
-# Booting up Ubuntu Machines (SIEM, SOC Workstation, & Zeek Sensor)
+# Booting up Ubuntu Machines (SIEM, & SOC Workstation)
 * For the SOC Workstation, I chose Ubuntu client since most of the SIEM, and security tools will utilize GUI web applications to navigate the consoles.
 * I obtained the ISO from the downloads page for Ubuntu desktop.
   **** add screenshot of homescreen to show installation ***
 * I will also add the Ubuntu desktop workstation to the domain later as well.
 
-* For the SIEM and Zeek sensor, I utilized Ubuntu Server version 24.04.4 LTS
+* For the SIEM (Kibana) server, I utilized Ubuntu Server version 24.04.4 LTS
