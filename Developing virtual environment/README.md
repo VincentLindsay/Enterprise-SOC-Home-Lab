@@ -25,9 +25,11 @@ This section will entail the setup of a virtual network, as well as the respecti
 * I was able to install, and configure the Server.
 
 * For the Windows 10 Workstation, I performed the same actions within my Attack and Defend [lab](https://github.com/VincentLindsay/Security-Analysis-Projects/tree/main/Attack%20%26%20Defend%20lab#Configuring-the-Windows-machine)
+
+<img width="1017" height="771" alt="image" src="https://github.com/user-attachments/assets/de1b0278-ba66-464d-bb89-94fea648e700" />
+
 * I Set up the VM as a Workstation that will be added to the domain later.
 
-* *** add something to show installation of workstation ****
 
 # Booting up Ubuntu Machines (SIEM, & SOC Workstation)
 * For the SOC Workstation, I chose Ubuntu client since most of the SIEM, and security tools will utilize GUI web applications to navigate the consoles.
@@ -36,3 +38,6 @@ This section will entail the setup of a virtual network, as well as the respecti
 * I will also add the Ubuntu desktop workstation to the domain later as well.
 
 * For the SIEM (Kibana) server, I utilized Ubuntu Server version 24.04.4 LTS
+<img width="635" height="613" alt="image" src="https://github.com/user-attachments/assets/051c1213-91d9-45de-b80f-d1cb09d25fd3" />
+
+* Now that the server is installed, I can now move onto configuring our SIEM, which will be the Kibana from the Elastic Stack
