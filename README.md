@@ -6,4 +6,4 @@ This repository features a virtualized enterprise SOC environment built to simul
 - [Creating active directory domain]
 - [Creating pfSense Firewall]
 - [Developing Zeek Sensor]
-- [Making attacker VM]
+- [Making attacker VM](https://github.com/VincentLindsay/Enterprise-SOC-Home-Lab/tree/main/Making%20attacker%20VM)
