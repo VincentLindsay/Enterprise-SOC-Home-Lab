@@ -2,9 +2,9 @@
 This section will entail the setup of a virtual network, as well as the respective virtual machines for each of the tools.
 
 # Table of Contents
-- [Creating the VNet]
-- [Booting up Windows Machines]
-- [Booting up Ubuntu Machines (SIEM, & SOC Workstation]
+- [Creating the VNet](Creating-the-VNET)
+- [Booting up Windows Machines](Booting-up-Windows-Machines)
+- [Booting up Ubuntu Machines (SIEM, & SOC Workstation)](Booting-up-Ubuntu-Machines)
 
 
 # Creating the VNET
@@ -31,7 +31,8 @@ This section will entail the setup of a virtual network, as well as the respecti
 * I Set up the VM as a Workstation that will be added to the domain later.
 
 
-# Booting up Ubuntu Machines (SIEM, & SOC Workstation)
+# Booting up Ubuntu Machines
+* This lab will use Ubuntu for the SIEM, & SOC Workstation.
 * For the SOC Workstation, I chose Ubuntu client since most of the SIEM, and security tools will utilize GUI web applications to navigate the consoles.
 * I obtained the ISO from the downloads page for Ubuntu desktop.
 
