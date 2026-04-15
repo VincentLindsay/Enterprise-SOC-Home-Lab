@@ -4,7 +4,7 @@ This section will entail the setup of a virtual network, as well as the respecti
 # Table of Contents
 - [Creating the VNet](Creating-the-VNET)
 - [Booting up Windows Machines](Booting-up-Windows-Machines)
-- [Booting up Ubuntu Machines (SIEM, & SOC Workstation)](Booting-up-Ubuntu-Machines)
+- [Booting up Ubuntu Machines](Booting-up-Ubuntu-Machines)
 
 
 # Creating the VNET
