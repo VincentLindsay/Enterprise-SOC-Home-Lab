@@ -2,9 +2,9 @@
 This section will entail the setup of a virtual network, as well as the respective virtual machines for each of the tools.
 
 # Table of Contents
-- [Creating the VNet](Creating-the-VNET)
-- [Booting up Windows Machines](Booting-up-Windows-Machines)
-- [Booting up Ubuntu Machines](Booting-up-Ubuntu-Machines)
+- [Creating the VNet](#Creating-the-VNET)
+- [Booting up Windows Machines](#Booting-up-Windows-Machines)
+- [Booting up Ubuntu Machines](#Booting-up-Ubuntu-Machines)
 
 
 # Creating the VNET
