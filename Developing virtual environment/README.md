@@ -32,13 +32,20 @@ This section will entail the setup of a virtual network, as well as the respecti
 
 
 # Booting up Ubuntu Machines
-* This lab will use Ubuntu for the SIEM, & SOC Workstation.
+* This lab will use Ubuntu for the SIEM, & SOC workstation.
+* This lab will also entail the development of an Ubuntu workstation that simulates a user.
 * For the SOC Workstation, I chose Ubuntu client since most of the SIEM, and security tools will utilize GUI web applications to navigate the consoles.
 * I obtained the ISO from the downloads page for Ubuntu desktop.
 
   <img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/4a3be282-caa6-41d8-86aa-73b826da7c68" />
 
 * I will also add the Ubuntu desktop workstation to the domain later as well.
+
+* Similarly, I followed the same process for configuring the user workstation
+<img width="1097" height="617" alt="image" src="https://github.com/user-attachments/assets/fcb9fc4e-5b37-444a-ac30-c09262407018" />
+
+* This screenshot shows the configuration of the ubuntu workstation that will be added to the domain later on.
+
 
 * For the SIEM (Kibana) server, I utilized Ubuntu Server version 24.04.4 LTS
 <img width="635" height="613" alt="image" src="https://github.com/user-attachments/assets/051c1213-91d9-45de-b80f-d1cb09d25fd3" />
