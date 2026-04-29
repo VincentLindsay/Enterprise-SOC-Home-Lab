@@ -28,7 +28,7 @@ This section will entail the setup of a virtual network, as well as the respecti
 
 <img width="1017" height="771" alt="image" src="https://github.com/user-attachments/assets/de1b0278-ba66-464d-bb89-94fea648e700" />
 
-* I Set up the VM as a Workstation that will be added to the domain later.
+* I set up the VM as a Workstation that will be added to the domain later.
 
 
 # Booting up Ubuntu Machines
@@ -43,4 +43,4 @@ This section will entail the setup of a virtual network, as well as the respecti
 * For the SIEM (Kibana) server, I utilized Ubuntu Server version 24.04.4 LTS
 <img width="635" height="613" alt="image" src="https://github.com/user-attachments/assets/051c1213-91d9-45de-b80f-d1cb09d25fd3" />
 
-* Now that the server is installed, I can now move onto configuring our SIEM, which will be the Kibana from the Elastic Stack
+* Now that the server is installed, I can now move onto configuring our SIEM, which will be  Kibana from the Elastic Stack, and will be demonstrated in a later section
